@@ -1,0 +1,9 @@
+.block{
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+.btn{
+    margin: 0px 5px 0px 5px;
+}
